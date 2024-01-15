@@ -1,0 +1,8 @@
+Jay Ganeshay Namaha 
+ Program Started Successfully 
+YTranslate = 0.000000
+XTranslate = 0.000000
+XScale = 0.000000
+YScale = 0.000000
+ZTranslate = 0.000000
+Program Ended Successfully 

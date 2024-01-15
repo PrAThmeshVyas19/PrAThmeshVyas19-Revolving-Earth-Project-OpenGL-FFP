@@ -1,0 +1,9 @@
+#include<windows.h>
+
+#include"OGL.h"
+
+MYICON ICON MyIcon.ico 
+
+MY_EARTH BITMAP Earth.bmp
+
+MY_STARS BITMAP Stars.bmp
